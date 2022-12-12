@@ -1,6 +1,6 @@
 # SQL
 
-img
+<img src="https://user-images.githubusercontent.com/50648409/206942388-b6ccc9e7-6428-404e-af89-7e4be7aca56a.jpeg" width="500" height="500"/>
 
 ## isi
 
